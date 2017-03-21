@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InterfaceMetaData>
+	<System Name="3EDEV1">
+		<Channel>
+			<Type/>
+			<!--<Url>sftp://150.172.59.15:9026/</Url>-->
+			<!--<Url>PROD/</Url>-->
+			<Url>To_3e/</Url>
+			<Url>THis is a Merege Test for Feature1 test this </Url>
+			<prj>THIS IS A PROJECT CHANGE</prj>
+			<prj>SO USE GIT HUB</prj>
+		</Channel>
+	</System>
+</InterfaceMetaData>
