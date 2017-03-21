@@ -6,8 +6,8 @@
 			<!--<Url>sftp://150.172.59.15:9026/</Url>-->
 			<!--<Url>PROD/</Url>-->
 			<Url>To_3e/</Url>
-			<Url>THis is a Merege Test for Feature1 test this </Url>
-			<prj>THIS IS A PROJECT CHANGE PERSON2 has MADE</prj>
+			<Url>THIS IS THE CHANGE FOR PROJECT 1 </Url>
+			<prj>THIS IS HIGHLY CONFIDENTIAL</prj>
 			<prj>SO USE GIT HUB</prj>
 		</Channel>
 	</System>
